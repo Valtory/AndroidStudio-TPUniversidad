@@ -1,0 +1,5 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad7" />
+  </action>
+</keymap>
