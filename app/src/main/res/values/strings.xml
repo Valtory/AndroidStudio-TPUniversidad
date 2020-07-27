@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">API2</string>
+    <string name="textView1">Welcome to Token Generator</string>
+    <string name="button">Generar Token</string>
+    <string name="button2">Agregar Nuevo Token</string>
+    <string name="textView3">Agregar Nuevo Token</string>
+    <string name="edit_text1">Ingrese el Nuevo Token</string>
+    <string name="button3">Agregar</string>
+    <string name="button4">Generar Nuevo Token</string>
+    <string name="text_view4">Generar Token</string>
+    <string name="text_view5">El token generado es: </string>
+    <string name="textview7"> </string>
+    <string name="exit_text1">Inserte Nuevo Token</string>
+</resources>
